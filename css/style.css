@@ -1,0 +1,13 @@
+.wiki{
+  width:800px;
+  height:600px;
+}
+h1{
+  font-family: 'Alfa Slab One', cursive;
+  text-align: center;
+  font-size:40px;
+}
+h2{
+  font-family: 'Damion', cursive;
+  font-size:35px;
+}
